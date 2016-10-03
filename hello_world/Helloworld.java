@@ -16,7 +16,7 @@ public class Helloworld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World!!");
+        System.out.println("Hello World: To forgive all is as inhuman as to forgive none (Aristòtil). Fortunately we have GIT");
     }
     
 }
